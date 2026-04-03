@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Samuel Garcia 👋
    
    Data Scientist transitioning from finance. Building production ML systems.
