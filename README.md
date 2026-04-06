@@ -62,3 +62,15 @@
 </table>
 
 ---
+
+<details>
+<summary><b>🗂️ Click to expand: Additional Projects & Explorations</b></summary>
+<br>
+<ul>
+  <li><b><a href="https://github.com/samf0rd/multi_asset_volatility">Multi-Asset Volatility Analysis</a>:</b> Statistical modeling of volatility forecasting and tail-risk correlations across diverse asset classes.</li>
+  <li><b><a href="https://github.com/samf0rd/Home-Credit-Default-Risk">Home Credit Default Risk</a>:</b> An imbalanced classification project predicting loan repayment capabilities using advanced sampling techniques.</li>
+  <li><b><a href="https://github.com/samf0rd/Corporaci_n_Favorita_Grocery_Sales">Corporación Favorita Grocery Sales</a>:</b> Time-series forecasting and EDA applied to large-scale retail store sales prediction.</li>
+</ul>
+</details>
+
+---
