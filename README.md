@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/macro-alpha.gif" alt="Macro-Alpha Engine Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+macro-alpha.gif+to+assets+folder';">
+      <img src="./assets/macro_demo.gif" alt="Macro-Alpha Engine Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+macro-alpha.gif+to+assets+folder';">
       <br>
       <h3>📈 Macro-Alpha Engine</h3>
       <p>A production-ready ML pipeline predicting S&P 500 directional movement. Uses an ensemble of XGBoost and PyTorch LSTMs.</p>
@@ -47,7 +47,7 @@
       <a href="https://github.com/samf0rd/macro_alpha">View Repository →</a> | <a href="https://www.samvgarcia.com">Live App →</a>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/fed-watcher.gif" alt="Fed-Watcher AI Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+fed-watcher.gif+to+assets+folder';">
+      <img src="./assets/fed_demo.gif" alt="Fed-Watcher AI Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+fed-watcher.gif+to+assets+folder';">
       <br>
       <h3>🦅 Fed-Watcher AI</h3>
       <p>An NLP system designed to analyze Federal Reserve communications and macroeconomic fundamentals. It quantifies "hawkish/dovish" sentiment text into actionable time-series features to predict interest rate shifts.</p>
