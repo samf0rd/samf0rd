@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
-      <a href="https://github.com/samf0rd/fed-watcher-ai">View Repository →</a>
+      <a href="https://github.com/samf0rd/fed-watcher-ai">View Repository | <a href="https://fed-watcher-ai.streamlit.app/">Live App →</a>
     </td>
   </tr>
 </table>
