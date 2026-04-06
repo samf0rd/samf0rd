@@ -34,26 +34,31 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./assets/macro-alpha.gif" alt="Macro-Alpha Engine Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+macro-alpha.gif+to+assets+folder';">
+      <br>
       <h3>📈 Macro-Alpha Engine</h3>
-      <p>A production-ready ML pipeline predicting S&P 500 directional movement. Uses an ensemble of XGBoost and PyTorch LSTMs, achieving a 2.4x better Sharpe ratio versus a buy-and-hold benchmark.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>XGBoost</code> <code>PyTorch</code> <code>AWS</code> <code>Streamlit</code></p>
+      <p>A production-ready ML pipeline predicting S&P 500 directional movement. Uses an ensemble of XGBoost and PyTorch LSTMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
       <a href="https://github.com/samf0rd/macro_alpha">View Repository →</a> | <a href="https://www.samvgarcia.com">Live App →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="./assets/fed-watcher.gif" alt="Fed-Watcher AI Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+fed-watcher.gif+to+assets+folder';">
+      <br>
       <h3>🦅 Fed-Watcher AI</h3>
       <p>An NLP system designed to analyze Federal Reserve communications and macroeconomic fundamentals. It quantifies "hawkish/dovish" sentiment text into actionable time-series features to predict interest rate shifts.</p>
-      <p><strong>Stack:</strong> <code>LLMs</code> <code>NLP</code> <code>Docker</code> <code>AWS</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
       <a href="https://github.com/samf0rd/fed-watcher-ai">View Repository →</a>
     </td>
   </tr>
 </table>
 
 ---
-
-### 📊 Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samf0rd&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samf0rd&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=black" alt="Top Languages" width="48%" />
-</p>
