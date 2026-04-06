@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/macro_demo.gif" alt="Macro-Alpha Engine Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+macro-alpha.gif+to+assets+folder';">
+      <img src="./assets/dashboard_demo.gif" alt="Macro-Alpha Engine Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+macro-alpha.gif+to+assets+folder';">
       <br>
       <h3>📈 Macro-Alpha Engine</h3>
       <p>A production-ready ML pipeline predicting S&P 500 directional movement. Uses an ensemble of XGBoost and PyTorch LSTMs.</p>
