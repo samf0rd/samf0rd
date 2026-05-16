@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
       </p>
-      <a href="https://github.com/samf0rd/macro_alpha">View Repository →</a> | <a href="https://www.samvgarcia.com">Live App →</a>
+      <a href="https://github.com/samf0rd/macro_alpha">View Repository →</a> | <a href="https://www.alpha.samvgarcia.com">Live App →</a>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/fed_demo.gif" alt="Fed-Watcher AI Demo" width="100%" onerror="this.onerror=null; this.src='https://via.placeholder.com/600x300/252F3F/FFFFFF?text=Upload+fed-watcher.gif+to+assets+folder';">
