@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samuel Garcia 👋</h1>
-<h3 align="center">Data Scientist | ML Engineer | Finance & Risk Analytics</h3>
+<h3 align="center">Data Science and Analytics | Machine Learning | Finance & Risk Analytics</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/samuel-garcia-427476159/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
