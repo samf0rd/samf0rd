@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/samf0rd/fraudshield">View Repository →</a>
+      <a href="https://github.com/samf0rd/fintech-fraud-engine">View Repository →</a>
     </td>
   </tr>
 </table>
